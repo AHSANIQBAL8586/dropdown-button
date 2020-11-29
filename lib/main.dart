@@ -50,7 +50,7 @@ class MyAppState extends State<MyApp> {
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              Text("Please choose a fruit: "),
+              Text("Please choose fruitesss"),
               DropdownButton(
                 value: _selectedFruit,
                 items: _dropDownMenuItems,
