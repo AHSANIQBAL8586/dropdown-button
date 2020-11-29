@@ -39,7 +39,7 @@ class MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
       home: Scaffold(
         appBar: AppBar(
           title: Text("DropDown Button ahsan doola"),
